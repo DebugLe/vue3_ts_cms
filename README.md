@@ -1,3 +1,15 @@
+登录页
+![Image text]('/src/assets/img/登录页.png')
+商品总览
+![Image text]('/src/assets/img/商品总览.png')
+商品信息
+![Image text]('/src/assets/img/商品信息.png')
+用户管理
+![Image text]('/src/assets/img/用户管理.png')
+菜单管理
+![Image text]('/src/assets/img/菜单管理.png')
+
+
 //根据账号密码获取用户基本信息(id,token)，再根据 id 获取用户详细信息(角色),根据用户角色获取用户菜单，按需展示
 
 //登录的逻辑，输入框自动校验输入的内容符不符合规范->点击登录按钮再次进行校验->发请求获取 token->根据 token/id 获取详细信息/菜单->将 token/菜单存储到本地 localStorage->展示菜单->添加动态路由->跳到内部页面&&判断是否记住密码->将判断结果和账号密码存储到本地 localStorage->解决页面刷新路由消失问题(@/stores/modules/login.ts, loadlocalStorageAction() )
