@@ -1,13 +1,13 @@
 登录页
-![Image text]('/src/assets/img/登录页.png')
+![Image text](https://github.com/DebugLe/vue3_ts_cms/blob/main/src/assets/img/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
 商品总览
-![Image text]('/src/assets/img/商品总览.png')
+![Image text](https://github.com/DebugLe/vue3_ts_cms/blob/main/src/assets/img/%E5%95%86%E5%93%81%E6%80%BB%E8%A7%88.png)
 商品信息
-![Image text]('/src/assets/img/商品信息.png')
+![Image text](https://github.com/DebugLe/vue3_ts_cms/blob/main/src/assets/img/%E5%95%86%E5%93%81%E4%BF%A1%E6%81%AF.png)
 用户管理
-![Image text]('/src/assets/img/用户管理.png')
+![Image text](https://github.com/DebugLe/vue3_ts_cms/blob/main/src/assets/img/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png)
 菜单管理
-![Image text]('/src/assets/img/菜单管理.png')
+![Image text](https://github.com/DebugLe/vue3_ts_cms/blob/main/src/assets/img/%E8%8F%9C%E5%8D%95%E7%AE%A1%E7%90%86.png)
 
 
 //根据账号密码获取用户基本信息(id,token)，再根据 id 获取用户详细信息(角色),根据用户角色获取用户菜单，按需展示
